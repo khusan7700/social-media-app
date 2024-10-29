@@ -43,7 +43,7 @@ const AddPost = () => {
           </div>
           <div className="flex items-center gap-2 cursor-pointer">
             <Image
-              src="/addVide.png"
+              src="/addvideo.png"
               alt=""
               width={20}
               height={20}
